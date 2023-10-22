@@ -1,5 +1,4 @@
-# 学校的大作业，代码很乱请多多包涵
-
+# 学校的大作业
 # Simple Shell
 
 #### The shell supports the following commands:
